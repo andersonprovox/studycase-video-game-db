@@ -1,6 +1,36 @@
-# NgVideoGameDb
+# # Studycase - Video game DB with Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+
+## Apresentação
+
+Projeto criado para exibir um portal de games com avaliações e informações dos jogos e suas plataformas.
+
+## Objetivo
+
+Conforme é um estudo de caso, aqui estou exercitando construir uma aplicação Angular usando SCSS, Material, e conectar com uma API REST.
+
+## Status
+
+Em Desenvolvimento
+
+## Features
+
+[] exibir games consumindo de uma API
+
+[] Exibir as plataformas e informações dos games exibidos
+
+## Techs utilizadas
+
+- Angular
+
+- RxJS
+
+- Angular Material
+
+- Rapid API
+
+## Deploy
 
 ## Development server
 
